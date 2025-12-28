@@ -12,3 +12,13 @@ img,
 video {
   display: block;
 }
+
+.Navigation-rail {
+  display: flex;
+  width: 200px;
+  padding: 50px 20px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  flex-shrink: 0;
+}
